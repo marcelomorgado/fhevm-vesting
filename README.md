@@ -15,6 +15,7 @@ npm t
 
 ## References
 
+- [OpenZeppelin Confidential contracts](https://github.com/OpenZeppelin/openzeppelin-confidential-contracts)
 - [FHEVM Documentation](https://docs.zama.ai/fhevm)
 - [FHEVM Hardhat Setup Guide](https://docs.zama.ai/protocol/solidity-guides/getting-started/setup)
 - [FHEVM Testing Guide](https://docs.zama.ai/protocol/solidity-guides/development-guide/hardhat/write_test)
